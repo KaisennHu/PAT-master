@@ -1,0 +1,2 @@
+arcface_512x512_nfnet_l1(mish)_14.pt filter=lfs diff=lfs merge=lfs -text
+arcface_512x512_nfnet_l1(mish)_15.pt filter=lfs diff=lfs merge=lfs -text
